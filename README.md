@@ -5,6 +5,7 @@ This repository contains comprehensive notes on **C programming fundamentals**, 
 It covers syntax, data types, operators, input/output handling, functions, and practical sample programs.  
 
 The notes are designed to be **academic-friendly** and include explanations, code snippets, and outputs for better understanding.
+I have attached a C file with all the code which you can try out.
 
 ---
 
@@ -87,4 +88,10 @@ Each program includes **code snippets and sample outputs** for clarity.
 This notes collection is suitable for:
 - Beginner to intermediate C learners  
 - Academic coursework and exam preparation  
-- Quick reference for syntax and examples  
+- Quick reference for syntax and examples
+
+---
+
+📚 Resources & References
+- [C Programming Tutorial Series on YouTube](https://www.youtube.com/watch?v=xND0t1pr3KY)  
+  *(This is the resource I used to learn C programming and create these notes.)*
