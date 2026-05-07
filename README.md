@@ -1,4 +1,4 @@
-💻 C Programming Notes
+# 💻 C Programming Notes
 📌 Overview
 
 This repository contains comprehensive notes on **C programming fundamentals**, written for beginner to intermediate learners.  
